@@ -1,0 +1,15 @@
+C:\My Projects\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\net6.0\RomanToInt.csproj.AssemblyReference.cache
+C:\My Projects\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\net6.0\RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\net6.0\RomanToInt.AssemblyInfoInputs.cache
+C:\My Projects\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\net6.0\RomanToInt.AssemblyInfo.cs
+C:\My Projects\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\net6.0\RomanToInt.csproj.CoreCompileInputs.cache
+C:\My Projects\LeetCodeSolutions\LeetCodeSolutions\bin\Debug\net6.0\RomanToInt.exe
+C:\My Projects\LeetCodeSolutions\LeetCodeSolutions\bin\Debug\net6.0\RomanToInt.deps.json
+C:\My Projects\LeetCodeSolutions\LeetCodeSolutions\bin\Debug\net6.0\RomanToInt.runtimeconfig.json
+C:\My Projects\LeetCodeSolutions\LeetCodeSolutions\bin\Debug\net6.0\RomanToInt.dll
+C:\My Projects\LeetCodeSolutions\LeetCodeSolutions\bin\Debug\net6.0\RomanToInt.pdb
+C:\My Projects\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\net6.0\RomanToInt.dll
+C:\My Projects\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\net6.0\refint\RomanToInt.dll
+C:\My Projects\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\net6.0\RomanToInt.pdb
+C:\My Projects\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\net6.0\RomanToInt.genruntimeconfig.cache
+C:\My Projects\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\net6.0\ref\RomanToInt.dll
