@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\My Projects\\LeetCodeSolutions\\LeetCodeSolutions\\RomanToInt.csproj",
-      "projectName": "RomanToInt",
-      "projectPath": "C:\\My Projects\\LeetCodeSolutions\\LeetCodeSolutions\\RomanToInt.csproj",
+      "projectUniqueName": "C:\\My Projects\\LeetCodeSolutions\\LeetCodeSolutions\\RomanToIn.csproj",
+      "projectName": "RomanToIn",
+      "projectPath": "C:\\My Projects\\LeetCodeSolutions\\LeetCodeSolutions\\RomanToIn.csproj",
       "packagesPath": "C:\\Users\\kolch\\.nuget\\packages\\",
       "outputPath": "C:\\My Projects\\LeetCodeSolutions\\LeetCodeSolutions\\obj\\",
       "projectStyle": "PackageReference",

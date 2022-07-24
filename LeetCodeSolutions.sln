@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInt", "LeetCodeSolutions\RomanToInt.csproj", "{8978A351-9FD0-4CFF-AE6F-B062539EEE39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToIn", "LeetCodeSolutions\RomanToIn.csproj", "{8978A351-9FD0-4CFF-AE6F-B062539EEE39}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{8103EB1F-FFEF-4D9E-A807-A7B339D9F8DB}"
 EndProject
